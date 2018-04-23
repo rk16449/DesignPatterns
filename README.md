@@ -1,11 +1,9 @@
 # DesignPatterns
-Sample Design Patterns in Java
+
+# Sample Design Patterns in Java
 
 
-Current list of design patterns
 
-Singleton
-
-- ### Design patterns
+- ### Current list of design patterns
     - [ ] strategy
     - [ ] singleton
