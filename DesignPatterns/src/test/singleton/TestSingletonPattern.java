@@ -1,7 +1,16 @@
 package test.singleton;
 
-import junit.framework.TestSuite;
+import static org.junit.Assert.*;
 
-public class TestSingletonPattern extends TestSuite {
+import org.junit.*;
 
+import main.singleton.SingletonClass;
+
+public class TestSingletonPattern {
+
+	@Test
+    public void TestSingletonInitialization() {
+		// Check if these two are the same
+		assertSame(SingletonClass.getInstance(), SingletonClass.getInstance());
+    }
 }
