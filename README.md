@@ -3,3 +3,4 @@
 - ### Current list
     - [ ] strategy
     - [ ] singleton
+	- [ ] strict factory method
