@@ -1,4 +1,4 @@
-package main.factoryMethod;
+package main.abstractFactory;
 
 /*
 	There are 3 common implementations of the factory method pattern

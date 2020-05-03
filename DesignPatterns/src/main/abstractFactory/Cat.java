@@ -1,4 +1,4 @@
-package main.factoryMethod;
+package main.abstractFactory;
 
 public class Cat implements Animal {
 

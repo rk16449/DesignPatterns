@@ -1,6 +1,6 @@
-package main.factoryMethod;
+package main.abstractFactory;
 
-public class FactoryMethod {
+public class AbstractFactoryExample {
 	public static void main(String[] args) {
 		// Create the different types of products using factory methods
 		

@@ -3,4 +3,5 @@
 - ### Current list
     - [ ] strategy
     - [ ] singleton
-	- [ ] strict factory method
+	- [ ] strict abstract factory method
+	- [ ] concrete factory method
