@@ -1,7 +1,7 @@
 package assignment.factory;
 
 public class AnimalClient {
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception{
 		AnimalFactory factory = new AnimalFactory();
 		
 		Animal tiger1 = factory.createAnimal("TIGER");
