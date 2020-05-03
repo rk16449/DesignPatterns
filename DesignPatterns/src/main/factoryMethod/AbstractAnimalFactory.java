@@ -27,8 +27,16 @@ class DogFactory extends AbstractAnimalFactory{
 
 	@Override
 	protected Animal factoryMethod() {
-		// TODO Auto-generated method stub
-		return null;
+		return new Dog();
+	}
+	
+}
+
+class CatFactory extends AbstractAnimalFactory{
+
+	@Override
+	protected Animal factoryMethod() {
+		return new Cat();
 	}
 	
 }
