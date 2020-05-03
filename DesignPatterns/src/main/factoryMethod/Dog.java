@@ -4,11 +4,11 @@ public class Dog implements Animal {
 
 	@Override
 	public void breath() {
-		System.out.println("breathing...");
+		System.out.println("Dog is breathing...");
 	}
 
 	@Override
 	public void eat() {
-		System.out.println("Eating...");
+		System.out.println("Dog is eating...");
 	}
 }
