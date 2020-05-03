@@ -24,19 +24,22 @@ public abstract class AbstractAnimalFactory {
 }
 
 class DogFactory extends AbstractAnimalFactory{
-
 	@Override
 	protected Animal factoryMethod() {
 		return new Dog();
 	}
-	
 }
 
 class CatFactory extends AbstractAnimalFactory{
-
 	@Override
 	protected Animal factoryMethod() {
 		return new Cat();
 	}
-	
+}
+
+class FoxFactory extends AbstractAnimalFactory{
+	@Override
+	protected Animal factoryMethod() {
+		return new Fox();
+	}
 }
