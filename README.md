@@ -5,3 +5,4 @@
     - [ ] singleton
 	- [ ] strict abstract factory method
 	- [ ] concrete factory method
+	- [ ] static factory method
