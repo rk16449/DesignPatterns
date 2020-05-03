@@ -16,5 +16,4 @@ public class Tiger implements Animal {
 	public void breath() {
 		System.out.println("in Tiger::breath()");
 	}
-
 }
