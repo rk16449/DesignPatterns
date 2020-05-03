@@ -4,3 +4,4 @@
     - [ ] strategy
     - [ ] singleton
 	- [ ] strict abstract factory method
+	- [ ] concrete factory method
